@@ -2,13 +2,30 @@
 
 Ying Li identifies acronyms in a succinct description of an algorithm for solving 2-SAT 2-CNF[^1]:
 
-https://github.com/user-attachments/assets/57c2c8ff-7982-420e-b170-0d8b01b2e248
+<!-- use YouTube because githubusercontent user-attachments upload links were expiring or behaving inconsistently -->
+
+[_(click here or image below to watch)_](https://www.youtube.com/watch?v=1Zh0TWGpO8w)
+
+[![2-SAT 2-CNF explain acronyms](yingli_2sat_2cnf_preview.png)](https://www.youtube.com/watch?v=1Zh0TWGpO8w)
+
+<!-- alternative sources, though Github's web interface will not automatically display inline -->
+<!-- ![Identifying acronyms in a description of 2-SAT 2-CNF algorithm](yingli_2sat_2cnf_our_own_writeup_of_algorithm_in_latex.webm "Identifying acronyms in a description of 2-SAT 2-CNF algorithm") -->
+<!-- ![Identifying acronyms in a description of 2-SAT 2-CNF algorithm](yingli_2sat_2cnf_our_own_writeup_of_algorithm_in_latex.mp4 "Identifying acronyms in a description of 2-SAT 2-CNF algorithm") -->
+
 
 Ying Li's favorite things:
 
-https://github.com/user-attachments/assets/2f762559-39cd-4a1a-82cd-d25cf6dd99c7
+<!-- use YouTube because githubusercontent user-attachments upload links were expiring or behaving inconsistently -->
 
-[^1]: The image Ying Li analyzes in the video is an original presentation of the algorithm using acronyms 2SAT, 2CNF, SCC (as were used in e.g. graduate course slides we encountered as well, but we own the rights to the algorithm description in this video, so use that here instead). To compare and check, we also provide below the original algorithm description (reused with explicit permission from Elsevier for posting on a public website):
+[_(click here or image below to watch)_](https://www.youtube.com/shorts/if2LddOKl5Y)
+
+[![Ying's favorite things](yingli_about_me_preview.webp)](https://www.youtube.com/shorts/if2LddOKl5Y)
+
+<!-- alternative sources, though Github's web interface will not automatically display inline -->
+<!-- ![About Ying Li](yingli_favorite_things.webm "About Ying Li") -->
+<!-- ![About Ying Li](yingli_favorite_things.mp4 "About Ying Li") -->
+
+[^1]: The image Ying Li analyzes in the video is an original presentation of the algorithm using acronyms 2SAT, 2CNF, SCC (as were used in e.g. UCSD graduate course slides we encountered as well, but we own the rights to the algorithm description in this video, so use that here instead). To compare and check, we also provide below the original algorithm description (reused with explicit permission from Elsevier for posting on a public website):
 "Two-satisfiability algorithm: Process the strong components S of G(F) [the implication graph for the logical formula] in reverse topological order as
 follows: General Step. If S is marked, do nothing. Otherwise if S = S[-complement] then stop: C is unsatisfiable. Otherwise
 mark S true and S[-complement] false.  This algorithm stops prematurely only if some
