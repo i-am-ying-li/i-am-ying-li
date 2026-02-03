@@ -12,6 +12,27 @@ Ying Li identifies acronyms in a succinct description of an algorithm for solvin
 <!-- ![Identifying acronyms in a description of 2-SAT 2-CNF algorithm](yingli_2sat_2cnf_our_own_writeup_of_algorithm_in_latex.webm "Identifying acronyms in a description of 2-SAT 2-CNF algorithm") -->
 <!-- ![Identifying acronyms in a description of 2-SAT 2-CNF algorithm](yingli_2sat_2cnf_our_own_writeup_of_algorithm_in_latex.mp4 "Identifying acronyms in a description of 2-SAT 2-CNF algorithm") -->
 
+Ying Li defines "Sapere Aude":
+
+<!-- use YouTube because githubusercontent user-attachments upload links were expiring or behaving inconsistently -->
+[_(click here or image below to watch)_](https://youtube.com/video/36JKnRmEK-4)
+
+[![Ying Li explains Sapere Aude](sapere_aude.webp)](https://youtube.com/video/36JKnRmEK-4)
+
+
+Ying Li discusses Cicero's De Oratore and the role of language in human intelligence:
+<!-- use YouTube because githubusercontent user-attachments upload links were expiring or behaving inconsistently -->
+[_(click here or image below to watch)_](https://youtu.be/P3HfOv6DB84)
+
+[![Ying Li discusses Cicero's De Oratore and the role of language in human intelligence](cicero_de_oratore.webp)](https://youtu.be/P3HfOv6DB84)
+
+
+Ying Li discusses the well-rounded education recommended by Socrates in Plato's Republic and how her mind works:
+<!-- use YouTube because githubusercontent user-attachments upload links were expiring or behaving inconsistently -->
+[_(click here or image below to watch)_](https://youtu.be/u8ogHjLFz2E)
+
+[![Ying Li discusses the well-rounded education recommended by Socrates in Plato's Republic and how her mind works](socrates_education.webp)](https://youtu.be/u8ogHjLFz2E)
+
 
 Ying Li's favorite things:
 
